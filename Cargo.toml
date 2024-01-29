@@ -1,0 +1,18 @@
+[package]
+name = "socket_programming"
+version = "0.1.0"
+edition = "2021"
+authors = ["Wr3nch_ren <prayhyper@gmail.com>"]
+repository = "https://github.com/Wr3nch-ren/socket_programming_rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "server"
+path = "src/server/main.rs"
+
+[[bin]]
+name = "client"
+path = "src/client/main.rs"
+
+[dependencies]
