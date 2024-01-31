@@ -23,7 +23,7 @@
     2. Run the client using `cargo run --bin client`
 
 3. You will these following output formats.
-    - On server.rs you will see
+    - On server, you will see
 
     ```text
     Starting server for recieve 1 request...
@@ -32,7 +32,7 @@
     Received a message, closing...
     ```
 
-    - On client.rs you will see
+    - On client, you will see
 
     ```text
     Starting client...
@@ -41,5 +41,5 @@
     STATUS_PHRASE: <StatusPhrase>
     ```
 
-4. server.rs and client.rs is closing itself.
+4. Server and client is closing itself.
 Congratulations! You have successfully run the code.
