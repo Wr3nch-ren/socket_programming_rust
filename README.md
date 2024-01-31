@@ -4,7 +4,7 @@
 
 ### How To Run
 
-1. Install Rust into your computer using these methods
+1. Install Rust into your computer using these methods.
     - Windows: Download via [https://www.rust-lang.org/tools/install] and choose rustup-init.exe to match with your CPU architecture.
     - Mac: You can use homebrew to download using
 
@@ -18,11 +18,11 @@
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     ```
 
-2. Open your terminal and run the program
+2. Open your terminal and run the program.
     1. Run the server first using `cargo run --bin server`
     2. Run the client using `cargo run --bin client`
 
-3. You will these following output formats
+3. You will these following output formats.
     - On server.rs you will see
 
     ```text
